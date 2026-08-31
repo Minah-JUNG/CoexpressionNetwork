@@ -8,7 +8,7 @@ library(tibble)
 
 ##################################################
 # === PATH ===
-dir <- "/path/to/Promoter_NbenthamianaTissue"
+dir <- "/path/to"
 # ============================================
 setwd(dir)
 
