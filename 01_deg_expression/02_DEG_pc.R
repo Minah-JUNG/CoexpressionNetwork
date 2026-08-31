@@ -8,7 +8,7 @@ library(matrixStats)   # rowMedians
 library(tibble)
 
 # === PATH ===
-dir <- "/path/to/NbenthamianaHeat"
+dir <- "/path/to"
 # ============================================
 setwd(dir)
 
